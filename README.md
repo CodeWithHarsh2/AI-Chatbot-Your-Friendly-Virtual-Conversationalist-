@@ -3,7 +3,7 @@
 Ever wished you had a chatbot that could talk like a human and respond to your questions intelligently? Well, this AI Chatbot is exactly that! It’s a simple yet smart program written in C that can recognize keywords from your messages and respond in a way that feels natural. It’s like having a basic version of Siri or Alexa but built from scratch using C programming!
 ________________________________________
 🛠 How Does It Work?
-1️⃣ You type a message (e.g., "Hello!")
+1️⃣ You type a message (e.g., "Hello!") \n
 2️⃣ The chatbot analyzes your input by looking for keywords.
 3️⃣ If it finds a match (like "hello" or "help"), it chooses a response from its database.
 4️⃣ It randomly selects a response from a set of possible replies (so it doesn’t sound robotic!).
