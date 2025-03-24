@@ -1,4 +1,4 @@
-# AI-Chatbot-Your-Friendly-Virtual-Conversationalist-
+# AI-Chatbot
 
 Ever wished you had a chatbot that could talk like a human and respond to your questions intelligently? Well, this AI Chatbot is exactly that! It’s a simple yet smart program written in C that can recognize keywords from your messages and respond in a way that feels natural. It’s like having a basic version of Siri or Alexa but built from scratch using C programming!
 ________________________________________
